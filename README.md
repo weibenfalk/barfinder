@@ -2,5 +2,5 @@
 This is the Starter files and the finished project for the React Typescript Barfinder App. It uses Google Maps and 3 different API:s
 Find it on my channel: 
 
-[Weibenfalks Youtube Channel](www.youtube.com/weibenfalk)
+[Weibenfalks Youtube Channel](http://www.youtube.com/weibenfalk)
 
